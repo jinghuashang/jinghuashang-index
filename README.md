@@ -1,2 +1,2 @@
-<center>屑殇主页 | jinghuashang index</center>
+# 屑殇主页 | jinghuashang index
 ![](./assets/img/index.webp)
